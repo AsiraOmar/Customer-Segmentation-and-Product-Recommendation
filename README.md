@@ -48,8 +48,7 @@ A hybrid recommendation approach is implemented combining collaborative filterin
 - The final recommendation list is a combination of both methods, ensuring diversity and relevance.
 
 ## Evaluation
-The recommendation system is evaluated using precision at k and AUC score. The trained LightFM model achieves the following results:
-- Precision at k: 0.4164
+The recommendation system is evaluated using AUC score. The trained LightFM model achieves the following results:
 - AUC score: 0.9251
 
 ## Deployment
