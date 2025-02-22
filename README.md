@@ -56,16 +56,8 @@ The recommendation system is evaluated using precision at k and AUC score. The t
 The trained model and mappings are saved for future use. The recommendation system can be reloaded and used to generate predictions without retraining.
 
 ## Installation and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-segmentation-recommendation.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook or script to process data and train models.
-4. Use the provided functions to generate recommendations for users.
+1. Run the Jupyter Notebook or script to process data and train models.
+2. Use the provided functions to generate recommendations for users.
 
 ## Future Improvements
 - Fine-tuning clustering parameters for better segmentation.
